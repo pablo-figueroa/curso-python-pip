@@ -1,7 +1,8 @@
 # curso-python-pip
-# Steps
 
-Instrucciones en la terminal:
+## Steps
+
+**Instrucciones en la terminal:**
 
 ```sh
 cd game
